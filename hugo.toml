@@ -16,38 +16,40 @@ theme = 'PaperMod'
     
     [[params.profileMode.buttons]]
       name = "Python"
-      url = "/tags/python/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "Data Analysis"
-      url = "/tags/data-analysis/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "Software Development"
-      url = "/tags/software-development/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "Database"
-      url = "/tags/database/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "Machine Learning"
-      url = "/tags/machine-learning/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "C++"
-      url = "/tags/c++/"
+      url = "#"
+    [[params.profileMode.buttons]]
+      name = "PHP"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "Data Science"
-      url = "/tags/data-science/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "Microsoft Excel"
-      url = "/tags/microsoft-excel/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "Power BI"
-      url = "/tags/power-bi/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "Tableau"
-      url = "/tags/tableau/"
+      url = "#"
     [[params.profileMode.buttons]]
       name = "General"
-      url = "/tags/general/"
-    
+      url = "#"
 
 [menu]
   [[menu.main]]
@@ -68,7 +70,7 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "project"
     name = "Project"
-    url = "/tags/project/"
+    url = "#"
     weight = 40
   [[menu.main]]
     identifier = "contact"

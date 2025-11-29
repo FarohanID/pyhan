@@ -15,11 +15,39 @@ theme = 'PaperMod'
     imageUrl = "https://media.licdn.com/dms/image/v2/D5603AQG7bAZu0h9S5w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713481924182?e=1766016000&v=beta&t=rDQBjGt_KJ9TtKkZa3ZmaH1RdilGpSAuSK2L2e3vUMQ" 
     
     [[params.profileMode.buttons]]
-      name = "Blog"
-      url = "posts"
+      name = "Python"
+      url = "/tags/python/"
     [[params.profileMode.buttons]]
-      name = "Github"
-      url = "https://github.com/FarohanID"
+      name = "Data Analysis"
+      url = "/tags/data-analysis/"
+    [[params.profileMode.buttons]]
+      name = "Software Development"
+      url = "/tags/software-development/"
+    [[params.profileMode.buttons]]
+      name = "Database"
+      url = "/tags/database/"
+    [[params.profileMode.buttons]]
+      name = "Machine Learning"
+      url = "/tags/machine-learning/"
+    [[params.profileMode.buttons]]
+      name = "C++"
+      url = "/tags/c++/"
+    [[params.profileMode.buttons]]
+      name = "Data Science"
+      url = "/tags/data-science/"
+    [[params.profileMode.buttons]]
+      name = "Microsoft Excel"
+      url = "/tags/microsoft-excel/"
+    [[params.profileMode.buttons]]
+      name = "Power BI"
+      url = "/tags/power-bi/"
+    [[params.profileMode.buttons]]
+      name = "Tableau"
+      url = "/tags/tableau/"
+    [[params.profileMode.buttons]]
+      name = "General"
+      url = "/tags/general/"
+    
 
 [menu]
   [[menu.main]]

@@ -1,0 +1,29 @@
+baseURL = 'https://pyhan.dev/'
+languageCode = 'id-id'
+title = 'PyHan.dev'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  
+  [params.profileMode]
+    enabled = true
+    title = "Farhan"
+    subtitle = "Data Manager & Software Developer"
+    imageUrl = "" 
+    
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "posts"
+    [[params.profileMode.buttons]]
+      name = "Github"
+      url = "https://github.com/FarohanID"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 10

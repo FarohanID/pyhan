@@ -20,14 +20,9 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Halo! Saya &lt;strong&gt;Ahmad Farhan&lt;/strong&gt;, seorang Data Manager &amp;amp; Software Developer.&lt;/p&gt;
-&lt;p&gt;Saya memiliki ketertarikan mendalam pada:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Python Programming&lt;/li&gt;
-&lt;li&gt;Data Analysis &amp;amp; Visualization&lt;/li&gt;
-&lt;li&gt;Automation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Saat ini saya sedang mengembangkan &lt;a href=&#34;https://pyhan.dev&#34;&gt;PyHan.dev&lt;/a&gt; sebagai wadah dokumentasi belajar saya.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Halo, nama saya &lt;strong&gt;Farhan&lt;/strong&gt;. Saat ini saya bekerja sebagai &lt;strong&gt;Data Manager&lt;/strong&gt;, dengan fokus pada pengelolaan data dari berbagai divisi, pembuatan sistem untuk data entry, serta memastikan akses dan quality control data berjalan dengan baik.&lt;/p&gt;
+&lt;p&gt;Saya memiliki latar belakang pendidikan di Informatika, dengan fokus yang cukup kuat pada &lt;strong&gt;Software Engineering&lt;/strong&gt;. Selama kuliah, saya terbiasa membangun berbagai aplikasi mulai dari aplikasi desktop, web, hingga mobile.&lt;/p&gt;
+&lt;p&gt;Penelitian akhir saya berjudul &lt;em&gt;&amp;ldquo;Pembangunan Sistem Pakar untuk Mengidentifikasi Gaya Belajar Mahasiswa dengan Metode Forward Chaining dan Certainty Factor&amp;rdquo;&lt;/em&gt;. Karya ini telah membantu dosen memahami gaya belajar mahasiswanya dan menerapkan metode pembelajaran yang sesuai dengan gaya belajar mahasiswa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>

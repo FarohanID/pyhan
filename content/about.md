@@ -12,4 +12,8 @@ Penelitian akhir saya berjudul *"Pembangunan Sistem Pakar untuk Mengidentifikasi
 
 Dengan latar belakang Informatika dan pekerjaan sebagai Data Manager, saya sering berada di titik tengah antara pengembangan sistem dan pengolahan data. Ini membuat saya terbiasa merancang solusi yang tidak hanya berfungsi secara teknis, tetapi juga relevan secara bisnis. Saya percaya perpaduan keahlian ini akan menjadi pondasi penting untuk melangkah lebih jauh di bidang data di masa depan.
 
+Saat ini saya sedang mempersiapkan diri untuk melakukan *switch career* di masa yang akan datang. Mungkin saya akan menjadi Data Engineer, Data Analyst, atau Python Developer. Untuk mempersiapkan diri, saya sedang aktif mengikuti kursus di Udemy yang pembelajarannya berfokus pada bidang yang saya minati.
+
+Saya juga memiliki hobi mendengarkan dan bermain musik khususnya gitar. Biasanya saya mendengarkan musik saat bekerja karena membantu saya fokus dan produktif. Sepulang dari kantor, saya selalu menyempatkan diri untuk bermain musik bersama teman-teman saya.
+
 Demikian perkenalan singkat saya, semoga apa yang saya tulis di situs ini memberikan manfaat untuk semua orang. Jika ada hal yang ingin ditanyakan, silahkan kirim pesan melalui email saya di **farhan@pyhan.dev**.

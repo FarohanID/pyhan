@@ -11,7 +11,7 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = "Ahmad Farhan"
-    subtitle = "Software Engineer + Data Enthusiast"
+    subtitle = "Informatics + Data Manager"
     imageUrl = "https://media.licdn.com/dms/image/v2/D5603AQG7bAZu0h9S5w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713481924182?e=1766016000&v=beta&t=rDQBjGt_KJ9TtKkZa3ZmaH1RdilGpSAuSK2L2e3vUMQ" 
     
     [[params.profileMode.buttons]]
